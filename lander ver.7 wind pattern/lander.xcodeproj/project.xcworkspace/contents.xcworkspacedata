@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../of_v0.11.2_osx_release/addons/ofxGui/src"
+      name = "src">
+      <FileRef
+         location = "group:ofxGuiGroup.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxBaseGui.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxColorPicker.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxSliderGroup.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxToggle.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxButton.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxGuiGroup.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxInputField.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxToggle.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxLabel.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxSlider.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxGui.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxBaseGui.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxButton.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxLabel.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxInputField.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxGuiUtils.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxSliderGroup.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxPanel.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxSlider.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ofxColorPicker.h">
+      </FileRef>
+      <FileRef
+         location = "group:ofxPanel.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
